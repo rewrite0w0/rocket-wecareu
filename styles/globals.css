@@ -1,3 +1,8 @@
+:root {
+  --color: #fff;
+  --smaller: 0.75;
+}
+
 html,
 body {
   padding: 0;
@@ -32,9 +37,6 @@ a {
 }
 
 /* general styling */
-:root {
-  --smaller: 0.75;
-}
 
 *::-webkit-scrollbar {
   display: none;
