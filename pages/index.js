@@ -58,7 +58,6 @@ export default function Home() {
     <article className="container">
       <header id="header"></header>
       <main>
-        <h1 id="headline">위케어유 Countdown</h1>
         <div id="countdown">
           <ul>
             <li>
