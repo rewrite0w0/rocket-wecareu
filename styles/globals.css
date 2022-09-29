@@ -46,11 +46,11 @@ body {
   align-items: center;
 
   background: #f2fcfb;
+  /* background-color: black; */
 
   display: flex;
 }
 
-span,
 #headline {
   background: -webkit-linear-gradient(145deg, #00eec4, #00d79c);
   -webkit-background-clip: text;
