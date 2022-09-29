@@ -44,7 +44,7 @@ export default function Home() {
 
           //do something later when date is reached
           if (distance < 0) {
-            document.getElementById("headline").innerText = "It's my birthday!";
+            document.getElementById("headline").innerText = "🚀🚀🚀🚀🚀";
             document.getElementById("countdown").style.display = "none";
             document.getElementById("content").style.display = "block";
             clearInterval(x);
@@ -79,6 +79,7 @@ export default function Home() {
           <span>🥳</span>
           <span>🎉</span>
           <span>🎂</span>
+          <span>🚀</span>
         </div>
       </main>
       <footer>
