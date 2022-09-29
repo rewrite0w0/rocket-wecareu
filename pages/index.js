@@ -86,8 +86,8 @@ export default function Home() {
         <span id="company">
           본사 주소 : 서울특별시 금천구 벚꽃로 234, 10층 1002호 (가산동,
           에이스하이엔드타워 6차) <br />
-          대표자 : 최종석 | 사업자번호 : 119-86-51786
-          <br /> T: 070-7701-8592 | M: wecareu@lameditech.com
+          대표자 : 최종석 | 사업자번호 : 119-86-51786 | T: 070-7701-8592 | M:
+          wecareu@lameditech.com
         </span>
       </footer>
     </article>
