@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export",
+    "build:export": "next build && next export",
+    "serve": "serve out",
+    "serve:build": "serve .next",
+    "info": "next info"
   },
   "dependencies": {
     "next": "12.3.1",
