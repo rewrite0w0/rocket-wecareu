@@ -36,6 +36,10 @@ a {
   --smaller: 0.75;
 }
 
+*::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   align-items: center;
 
